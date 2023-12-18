@@ -1,3 +1,3 @@
 <?php
-$conn = new mysqli('localhost', 'root', '', 'tugas7pemweb');
+$conn = new mysqli('localhost', 'root', '', 'uaspemweb');
 ?>
