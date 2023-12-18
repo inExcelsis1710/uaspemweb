@@ -32,9 +32,11 @@ Proyek ini adalah implementasi sederhana untuk menyimpan dan mengelola data maha
 - Fungsi-fungsi JavaScript ditambahkan untuk mengelola cookie dan browser storage.
 
 ## Petunjuk Penggunaan
-1. Pastikan telah membuat basis data MySQL dengan langkah-langkah pada `koneksi.php`.
-2. Jalankan proyek pada server lokal (XAMPP, WAMP, dll.).
-3. Buka `index.php` di browser.
+1. Jalankan proyek pada server lokal (XAMPP, WAMP, dll.).
+2. Pastikan telah membuat basis data MySQL dengan nama database "uaspemweb"
+3. Taruh semua file dalam satu folder dengan nama "uaspemweb"
+4. Masukkan folder "uaspemweb" ke folder xampp - htdocs
+5. Buka browser dan ketik "localhost/uaspemweb" pada kolom situs pencarian
 
 ## Kontributor
 Ignatius Krisna Issaputra
