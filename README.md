@@ -34,9 +34,10 @@ Proyek ini adalah implementasi sederhana untuk menyimpan dan mengelola data maha
 ## Petunjuk Penggunaan
 1. Jalankan proyek pada server lokal (XAMPP, WAMP, dll.).
 2. Pastikan telah membuat basis data MySQL dengan nama database "uaspemweb"
-3. Taruh semua file dalam satu folder dengan nama "uaspemweb"
-4. Masukkan folder "uaspemweb" ke folder xampp - htdocs
-5. Buka browser dan ketik "localhost/uaspemweb" pada kolom situs pencarian
+3. Masukkan SQL sesuai dengan file "database.sql"
+4. Taruh semua file dalam satu folder dengan nama "uaspemweb"
+5. Masukkan folder "uaspemweb" ke folder xampp - htdocs
+6. Buka browser dan ketik "localhost/uaspemweb" pada kolom situs pencarian
 
 ## Kontributor
 Ignatius Krisna Issaputra
