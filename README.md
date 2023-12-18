@@ -31,6 +31,19 @@ Proyek ini adalah implementasi sederhana untuk menyimpan dan mengelola data maha
 ### 4.2 Pengelolaan State JavaScript (Cookie dan Browser Storage)
 - Fungsi-fungsi JavaScript ditambahkan untuk mengelola cookie dan browser storage.
 
+## Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
+### Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
+- Pilih penyedia hosting web dan daftar akun.
+- Langganan hosting dan domain
+- Buat basis data MySQL di panel kontrol hosting.
+- Unggah semua file proyek menggunakan panel kontrol hosting atau cPanel.
+### Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
+Penyedia hosting yang saya sarankan adalah rumahweb. Dikarenakan selain call center dan teknisi responsif, harga untuk hosting termasuk terjangkau
+### Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
+Penyedia hosting yang saya gunakan dapat menambahkan fitur ekstra keamanan pada saat membuat domain, sehingga dapat terjamin. Juga memperbarui secara rutin semua komponen proyek dan server hosting.
+### Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
+PHP diatur dengan versi yang sesuai dan mendukung proyek.
+
 ## Petunjuk Penggunaan
 1. Jalankan proyek pada server lokal (XAMPP, WAMP, dll.).
 2. Pastikan telah membuat basis data MySQL dengan nama database "uaspemweb"
