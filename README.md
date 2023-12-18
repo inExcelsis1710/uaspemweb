@@ -16,8 +16,6 @@ Proyek ini adalah implementasi sederhana untuk menyimpan dan mengelola data maha
 - Data dari formulir diolah menggunakan variabel global `$_POST`.
 - Validasi dilakukan di sisi server.
 - Hasil pengolahan data ditampilkan.
-### 2.2 Objek PHP berbasis OOP
-- Tambahkan objek `Mahasiswa` pada `Mahasiswa.php` yang mengelola operasi CRUD untuk data mahasiswa.
 
 ## Bagian 3: Database Management (Bobot: 20%)
 ### 3.1 Database MySQL
